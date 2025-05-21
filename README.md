@@ -20,3 +20,9 @@ Right now, I’m also starting to explore **React**, aiming to take my front-end
 ### 📱 Connect with me
 
 [![Instagram](https://img.shields.io/badge/@danielmonteyro__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielmonteyro__)
+<br>
+
+[![Daniel Monteiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmonteyro)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmonteyro)](https://github.com/anuraghazra/github-readme-stats)
